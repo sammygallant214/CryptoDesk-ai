@@ -157,4 +157,4 @@ This alpha should be treated as testing software, not a production trading envir
 
 ---
 
-Built by Ahmed with AI-assisted engineering support.
+Built by Ahmed Sami Khedhri with AI-assisted engineering support.
